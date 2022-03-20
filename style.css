@@ -1,13 +1,14 @@
-* {
-	box-sizing: border-box;
-}
-
 body{
 	background-image: url(fon2.jpg);
 }
+
 #container {
 	height: 1000px;
 	justify-content: center;
+}
+
+* {
+	box-sizing: border-box;
 }
 
 button{
